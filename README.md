@@ -19,5 +19,10 @@ presentación
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | Aplicaciones | Vistos |
-| ------------ |:------:|
+| ------------ |:-------|
 | Google Docs |:heavy_check_mark:|
+| Google Slides |:heavy_check_mark:|
+| Google Sheets |:heavy_check_mark:|
+| Google Calendar |:calendar:|
+| Google Meet |:computer:|
+| ... | ... |
