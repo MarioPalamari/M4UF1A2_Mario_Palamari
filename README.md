@@ -52,3 +52,5 @@ CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como 
 elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![su](https://helpx.adobe.com/content/dam/help/es/dreamweaver/using/web-applications/jcr%3Acontent/main-pars/image_0/ds_process_static.png.img.png)
